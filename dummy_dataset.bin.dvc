@@ -1,0 +1,5 @@
+outs:
+- md5: cab77ae9312336846d9a526770c47539
+  size: 419430400
+  hash: md5
+  path: dummy_dataset.bin
